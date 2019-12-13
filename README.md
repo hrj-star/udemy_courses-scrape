@@ -24,6 +24,7 @@ Alternate method is to use URL links.
 * Selenium Webdriver
 * Firefox Geckodriver -Give its executable path.
 * Login with Udemy account and go to 'My Courses' page.
+* Run the script and output will be generated in .csv file.
 
 ## Future Enhancements
 - [ ] Iterating the pages through URL (Alternate way)
