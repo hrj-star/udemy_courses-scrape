@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Features](#features)
+* [Installations and steps](#installations-and-steps)
 * [Future Enhancements](#future-enhancements)
 
 ## General info
@@ -19,10 +19,11 @@ Alternate method is to use URL links.
 * Firefox GeckoDriver engine 
 * Python 3.
 	
-## Features
+## Installations and steps
 
 * Selenium Webdriver
 * Firefox Geckodriver -Give its executable path.
+* Login with Udemy account and go to 'My Courses' page.
 
 ## Future Enhancements
 - [ ] Iterating the pages through URL (Alternate way)
